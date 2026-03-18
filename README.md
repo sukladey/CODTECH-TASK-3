@@ -54,7 +54,4 @@ Electronics products generate the highest sales.
 Laptop sales dominate in East and North regions.
 Furniture category provides moderate profits.
 
-### Author
 
-Sukla Dey  
-CODTECH Internship
